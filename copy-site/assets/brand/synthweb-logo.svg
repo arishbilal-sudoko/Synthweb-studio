@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 869 452" width="869" height="452" role="img" aria-label="Synthweb Studio">
+	<title>Synthweb Studio</title>
+	<!-- Brand block -->
+	<rect x="0" y="0" width="869" height="452" fill="#137CC8"/>
+	<!-- White box containing the S -->
+	<rect x="40" y="40" width="372" height="372" fill="#FFFFFF"/>
+	<text x="226" y="226" fill="#137CC8" font-family="'Google Sans','Product Sans',Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="300" font-weight="300" text-anchor="middle" dominant-baseline="central">S</text>
+	<!-- W on the brand block -->
+	<text x="645" y="226" fill="#FFFFFF" font-family="'Google Sans','Product Sans',Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="330" font-weight="300" text-anchor="middle" dominant-baseline="central">W</text>
+</svg>

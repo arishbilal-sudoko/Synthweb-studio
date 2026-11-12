@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Synthweb Studio">
+	<title>Synthweb Studio</title>
+	<rect x="0" y="0" width="64" height="64" rx="10" fill="#FFFFFF"/>
+	<rect x="7" y="19" width="26" height="26" fill="#137CC8"/>
+	<text x="20" y="32.5" fill="#FFFFFF" font-family="'Google Sans','Product Sans',Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="middle" dominant-baseline="central">S</text>
+	<text x="47" y="32.5" fill="#137CC8" font-family="'Google Sans','Product Sans',Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="400" text-anchor="middle" dominant-baseline="central">W</text>
+</svg>
